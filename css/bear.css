@@ -13,5 +13,6 @@ html {
   
   #bear {
     position: fixed;
+    left: 850px;
   }
 }
