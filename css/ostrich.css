@@ -9,4 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@media only screen an (min-width: )
+@media only screen an (min-width: 1325px){
+  #ostrich{
+    top: 20px;
+  }
+}
