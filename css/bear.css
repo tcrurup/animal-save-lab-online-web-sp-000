@@ -12,6 +12,6 @@ html {
 @media only and screen (max-width: 1150px){
   
   #bear img{
-    
+    position: fixed;
   }
 }
